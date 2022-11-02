@@ -1,0 +1,13 @@
+1)git init
+2)git config --global user.name PhaGE228
+3)git config --clobal user.email semenegorov1245@mai.ru
+4)git status
+5)git add .
+6)git commit -m "Комментарий 1"
+7)git log
+8)git status
+9)git add .
+10)git commit -m "Коментарий 2"
+11)git status
+12)git add .
+13)git commit -m "Комментарий 3"
